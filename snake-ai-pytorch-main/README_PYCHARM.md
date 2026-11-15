@@ -1,9 +1,7 @@
 # Snake AI with Deep Q-Learning (PyCharm edition)
 
 This is a PyTorch + Pygame implementation of a Snake-playing agent trained with
-Deep Q-Learning (DQN). It is based on the uploaded project and retains its
-11-feature state representation, 3 discrete actions, 256-unit hidden layer,
-experience replay, epsilon-greedy exploration and Bellman Q-learning update.
+Deep Q-Learning (DQN).
 
 ## 1. Requirements
 - Python 3.10 or 3.11 recommended
